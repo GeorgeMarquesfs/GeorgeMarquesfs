@@ -12,7 +12,6 @@
   <img align="center" alt="George-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="George-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="George-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="George-Mustache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mustache/mustache-plain.svg">
   
 </div>
   
